@@ -17,8 +17,8 @@
     "react-scripts": "5.0.1",
     "react-stripe-checkout": "^2.6.3",
     "redux": "^4.2.1",
-    "redux-devtools-extension": "^3.2.0",
-    "redux-thunk": "^3.1.0",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.4.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -47,3 +47,4 @@
   },
   "proxy": "https://food-back-d332.onrender.com/"
 }
+
